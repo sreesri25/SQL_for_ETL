@@ -1,6 +1,6 @@
 # SQL Joins — Complete Reference Guide
 
-> A structured, interview-ready reference covering all SQL join types with real-world use cases in data quality, ETL testing, and pipeline transformations.
+> A structured, reference guide covering all SQL join types with real-world use cases in data quality, ETL testing, and pipeline transformations. This guide can also be used for quick revision for interview preparation.
 
 ---
 
