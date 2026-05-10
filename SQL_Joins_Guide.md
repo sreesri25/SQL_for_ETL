@@ -428,4 +428,4 @@ Found an error or want to add a use case? Open a PR or issue. All skill levels w
 
 ---
 
-*Built for interview preparation and team knowledge sharing. Use freely.*
+*Built for knowledge sharing and interview preparation. Use freely.*
